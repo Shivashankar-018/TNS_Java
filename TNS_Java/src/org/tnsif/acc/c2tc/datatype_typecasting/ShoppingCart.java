@@ -1,10 +1,10 @@
-package HelloWorld;
+package org.tnsif.acc.c2tc.datatype_typecasting;
 
-public class HelloWorld {
+public class ShoppingCart {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World");
+		
 
 	}
 
