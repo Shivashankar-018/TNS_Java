@@ -1,4 +1,6 @@
-package org.tnsif.acc.c2tc.MethodOverRiding_Super_this;
+
+
+package org.tnsif.acc.c2tc.MethodOverRiding_Super_this_instanceof;
 //parent class
 class Payment
 {
