@@ -3,7 +3,7 @@ package org.tnsif.acc.c2tc.WarperClass;
 
 
 
-public class Dh {
+public class  WarperClass{
     public static void main(String[] args) {
 
         // BYTE
