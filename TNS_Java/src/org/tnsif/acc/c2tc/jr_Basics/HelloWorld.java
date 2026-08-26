@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.jr_class;
+package org.tnsif.acc.c2tc.jr_Basics;
 
 public class HelloWorld {
 
