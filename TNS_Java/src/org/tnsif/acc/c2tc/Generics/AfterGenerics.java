@@ -10,7 +10,7 @@ public class AfterGenerics {
 	public static void main(String[] args) {
 		List<String> list1=new ArrayList<>();
 		list1.add("apple");
-		list1.add(23.2);
+		list1.add("mango");
  
 	}
 
